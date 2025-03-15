@@ -1,3 +1,27 @@
+# Cybersecurity Lab: Azure Sentinel and Honeypot Setup
+
+## Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SIEM-Honeypot
 
 
