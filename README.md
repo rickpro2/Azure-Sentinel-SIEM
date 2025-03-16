@@ -1,8 +1,8 @@
 # Cybersecurity Lab: Azure Sentinel and Honeypot Setup
-
+<img src="images/Title Logo.png" height="80%" width="80%" alt="Azure Homelab Cover"/>
 ## Overview
 
-
+images/Title Logo.png
 
 
 
