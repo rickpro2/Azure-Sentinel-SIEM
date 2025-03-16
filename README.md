@@ -22,12 +22,6 @@ This project was inspired by the invaluable guidance provided in the YouTube vid
 
 
 
-## Overview
-
-Welcome to the GitHub repository for the Cybersecurity Lab on setting up Azure Sentinel, a cloud-based Security Information and Event Management (SIEM), and a Virtual Machine Honeypot. This lab provides hands-on exposure to an SIEM without the need for corporate experience, offering insights into real-world cybersecurity scenarios. During the lab, I recorded the latitude and longitude of attackers and presented the data on a world map within the Azure environment.
-
-![WorldMap at Azure](https://res.cloudinary.com/dkqvrhzs3/image/upload/v1700374777/worldmapsiem_ebjg11.png)
-
 ## Initial Setup and Configuration
 
 1. **Azure Subscription Setup:**
