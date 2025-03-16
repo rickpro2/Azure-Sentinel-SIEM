@@ -16,7 +16,7 @@ I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as
 # Delete Stuff Below This Line
 
 
-# Cybersecurity Lab: Azure Sentinel and Honeypot Setup
+
 
 ## Overview
 
