@@ -690,33 +690,3 @@ o	Run Script <br/>
 <br/>
 <br/>
 <br/>
-•	Find failed_rdp file <br/>
-o	Copy contents of file <br/>
-<br/>
-<img src="https://i.imgur.com/fdR6ykr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<br/>
-•	Go back to main computer <br />
-•	Open notepad- Paste contents of file, Save on desktop as failed_rdp <br />
-<br/>
-<br/>
-<br/>
-•	Go to azure portal- Log analytics, click on workspace  <br/>
-<img src="https://i.imgur.com/Hap66vO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
-<br/>
-<br/> 
-o	Go to custom log- add custom log <br/> 
-o	select file in custom log <br/> 
-o	Click next, under Collection paths choose Windows for type <br/> 
-o	For path- copy the path from the VM- C:\ProgramData\failed_rdp.log * Needs to be accurate <br/>
-<img src="https://i.imgur.com/zaLlfwd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<br/> 
-•	Click next, Details Custom log name= FAILED_RDP_WITH_GEO <br/>
-o	Next, and create <br/>
-<br/>
-<img src="https://i.imgur.com/kwrY6Yy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
-<br/>
-<br/> 
