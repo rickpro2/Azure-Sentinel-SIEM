@@ -658,35 +658,3 @@ o	Go to windows logs- Click security <br />
 o	Find any event with keywords “Audit Failure” (This shows failed attempts to log into VM)- Find Source Network Address <br />
  <br/>
  <br/>
-•	Click start- open windows defender firewall  <br/>
-o	Click Windows Defender Firewall Properties   <br/>
-o	Go to domain/private/public profile- Firewall state: Off   <br/>
-o	Apply   <br/>
-o	Close out everything   <br/>
-<img src="https://i.imgur.com/uYdRTeq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<br/>
-<br/> 
-•	Go to Github- find joshmadakor1 <br/>
-o	Download PowerShell script- Custom_Security_Log_Exporter.ps1 <br/>
-<br/>
-•	Open Windows Powershell ISE <br/>
-o	Paste and save script as Log_Exporter <br/>
-<br/>
-<br/>
-<br/>
-•	Go to https://ipgeolocation.io/ <br/>
-o	Signup- Copy API Key <br/>
-o	Paste into Script <br/>
-o	Run Script <br/>
-<br/>
-<img src="https://i.imgur.com/9rKy9co.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<br/>
-•	The script is now running and will pull the failed attempts IP addresses, insert into the ipgeolocation website, takes that information and creates a failed login file. <br/>
-<img src="https://i.imgur.com/JpBgZri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
-<br/>
-<br/>
-<br/>
