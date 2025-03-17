@@ -556,10 +556,3 @@ SIEM Walkthrough | Microsoft Sentinel Map with Live Cyber Attacks
 In this lab I created a vulnerable VM as a honeypot for attacks and then created a log analytics workspace to ingest logs from my VM by using Microsoft Sentinel. I downloaded a PowerShell script and was able to input the IP addresses, that were found using the VM’s Event Viewer under “failed audits”, into the script. The script took those IP addresses and inserted them onto https://ipgeolocation.io/ . From there it created a file that was copied onto my main computer and inserted into a log analytics workspace. I was able to use these logs to make a query in Sentinel to create geographic locations that discover where attacks were coming from.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Azure Virtual Machine</b>
-- <b>Microsoft Sentinel</b>
-
