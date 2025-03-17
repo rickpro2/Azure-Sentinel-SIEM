@@ -598,35 +598,3 @@ o	Click Review+Create
 <img src="https://i.imgur.com/FNQEtPd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-o	Subscription- Pay as you go <br />
-o	Resource group- Choose the honeypotlab <br />
-o	Name- LAWhoneypot <br />
-o	Region- East US <br />
-<img src="https://i.imgur.com/Frw9slq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<br />
-•	Go to Microsoft Defender for the Cloud <br />
-o	Find management section- go to Environment Settings- click LAWhoneypot
-:  <br/>
-<img src="https://i.imgur.com/c1dASBA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-o	Go to “SQL servers on machines” and turn off <br />
-o	Click save <br />
-o	Click “Data collection”- Choose “All Events”- Save <br />
-<br/>
-<br/>
-<img src="https://i.imgur.com/mBe955t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-•	Go back to Log Analytics workspace :  <br/>
- o	Find virtual machine section- Click “Connect” to connect workspace to VM <br/>
-<img src="https://i.imgur.com/AUACOYB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-•	Setup Microsoft Sentinel- Find and click create   <br/>
- o	Click Log Analytics workspace that was created- Add <br/>
-<img src="https://i.imgur.com/10QRh8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
