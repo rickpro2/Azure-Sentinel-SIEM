@@ -61,21 +61,6 @@ Stay tuned for more cybersecurity content and practical demonstrations. Future u
 
 Feel free to explore the repository and use the provided resources for your own learning and experimentation. Contributions and feedback are welcome!
 
-## Inspiration
-
-This cybersecurity lab project was inspired by the invaluable guidance and insights shared in the YouTube video titled "SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!
-" by Josh Madakor. The step-by-step instructions, practical demonstrations, and clear explanations provided in the video served as a foundation for setting up Azure Sentinel and the Virtual Machine Honeypot.
-
-[Link to the YouTube Video](https://youtu.be/RoZeVbbZ0o0?list=PL85GlCRx5t-Lo3Z5aoSFwozqEkuQtuRmk)
-
-Feel free to explore and support the creator's channel for more insightful content in the cybersecurity domain.
-
-**Special thanks to Josh Madakor for the inspiration and knowledge-sharing!**
-
-
-**Happy Learning and Stay Secure!**
-
-
 
 
 <h1>Azure Sentinel (SIEM) Honeypot Home Lab</h1>
