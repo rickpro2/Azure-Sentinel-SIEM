@@ -563,7 +563,3 @@ In this lab I created a vulnerable VM as a honeypot for attacks and then created
 - <b>Azure Virtual Machine</b>
 - <b>Microsoft Sentinel</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b> 
-

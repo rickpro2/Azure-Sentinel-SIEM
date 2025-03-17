@@ -24,12 +24,16 @@ This project was inspired by the invaluable guidance provided in the YouTube vid
 
 
 
+
+### Languages and Utilities Used
+
+- PowerShell
+- Azure Virtual Machine
+- Microsoft Sentinel
+
 ### Environments Used
  - Windows 10
 
-<h2> </h2>
-
-- <b>Windows 11</b> 
 
 
 
