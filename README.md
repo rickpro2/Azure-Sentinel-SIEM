@@ -53,8 +53,11 @@ This project was inspired by the YouTube video <a href="https://youtu.be/g5JL2RI
 
 
 
-
+## Attack Map
 <img src="images/Map.png"/>
 
 
-# Delete Stuff Below This Line
+
+## Conclusion
+
+The cybersecurity lab successfully demonstrated the practical application of tools such as Azure Sentinel and honeypots. The experience deepened my understanding of cybersecurity and emphasized the importance of proactive defense measures.
