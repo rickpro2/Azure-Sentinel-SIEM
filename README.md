@@ -11,6 +11,18 @@ With these logs in Sentinel, I crafted a custom Kusto Query Language (KQL) query
 
 This project was inspired by the YouTube video <a href="https://youtu.be/g5JL2RIbThM?si=GUjx0TV-xzc0zU9Q" target="_new">"Cyber Home Lab from ZERO and Catch Attackers! Free, Easy, and REAL (Microsoft Sentinel 2025)"</a> by Josh Madakor. The step-by-step instructions, practical demonstrations, and clear explanations in the video were instrumental in setting up Azure Sentinel and deploying the Virtual Machine Honeypot.
 
+
+
+### Learning Objectives:
+
+- Configuration & Deployment of Microsoft Azure virtual machines, Log Analytics Workspaces, and Microsoft Sentinel
+- Hands-on experience with a SIEM (Security Information and Event Management)
+- Understanding Windows Security Event logs
+- Using KQL to query logs
+- Display attack data on a dashboard with Workbooks (Failed RDP World Map)
+
+
+
 ### Languages and Utilities Used
 
 - PowerShell

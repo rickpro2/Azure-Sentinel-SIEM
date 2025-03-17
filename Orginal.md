@@ -400,23 +400,3 @@ Failed_RDP_Geolocation_CL
 
 
 
-
-# Microsoft Azure Sentinel Honeypot | Attack Map
-
-Credit goes to Josh Madakor for this lab! You can find his video [here](https://www.youtube.com/watch?v=RoZeVbbZ0o0&list=PL_MvTIq1Tl-X04__sDhuQ89qo-g72DaBt&index=3).
-
-### Learning Objectives:
-
-- Configuration & Deployment of Microsoft Azure virtual machines, Log Analytics Workspaces, and Microsoft Sentinel
-- Hands-on experience with a SIEM (Security Information and Event Management)
-- Understanding Windows Security Event logs
-- Using KQL to query logs
-- Display attack data on a dashboard with Workbooks (Failed RDP World Map)
-
-### Tools & Requirements:
-
-1. Microsoft Azure
-2. Remote Desktop Protocol (RDP)
-3. 3rd Party API: ipgeolocation.io
-4. Custom [Powershell Script](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) by Josh Madakor
-
