@@ -630,31 +630,3 @@ o	Click “Data collection”- Choose “All Events”- Save <br />
 <img src="https://i.imgur.com/10QRh8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-•	Find Virtual Machine- Go to Public IP Address and copy <br />
-•	Open remote desktop on computer <br />
-o	 paste the IP- Connect <br />
-o	Go to more choices- Use a different account <br />
-o	Use username and password that was used for the VM <br />
-o	Log in <br/>
-<br/>
-<br/>
-<img src="https://i.imgur.com/fauv14e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-<br/>
-<img src="https://i.imgur.com/ZwCCffm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-<br/>
-•	Now Operate within Virtual Machine <br/> 
-•	Setup browser <br/> 
-•	Click start- Find “Event Viewer”- Open <br/> 
-<br/>
-<br/>
-<img src="https://i.imgur.com/jIeWydP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-o	Go to windows logs- Click security <br />
-o	Find any event with keywords “Audit Failure” (This shows failed attempts to log into VM)- Find Source Network Address <br />
- <br/>
- <br/>
