@@ -10,10 +10,10 @@ To enhance the analysis, I utilized a custom PowerShell script to retrieve the g
 
 This project was inspired by the invaluable guidance provided in the YouTube video <a href="https://youtu.be/RoZeVbbZ0o0?list=PL85GlCRx5t-Lo3Z5aoSFwozqEkuQtuRmk" target="_new">"SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!</a>" by Josh Madakor. The video's step-by-step instructions, practical demonstrations, and clear explanations played a crucial role in setting up Azure Sentinel and deploying the Virtual Machine Honeypot.
 
-<br />
-<br />
-
 <img src="images/Map.png"/>
+
+<br />
+<br />
 
 
 ## Initial Setup and Configuration
@@ -757,26 +757,3 @@ o	Type Sentinel- click on log_analytics_workspace_honeypot <br/>
 o	Click on “Workbooks”- Add new <br/> 
 <br/>
 <br/> 
-<img src="https://i.imgur.com/TG18quu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-<br/>
-o	Edit- remove default widgets <br/> 
-o	Add Query- type in-> 	FAILED_RDP_WITH_GEO_CL | summarize event_count=count() by sourcehost_CF, latitude_CF, longitude_CF, country_CF, label_CF, destinationhost_CF | where destinationhost_CF != “samplehost”
-| where sourcehost_CF != “” <br/> 
-<br/>  
-<br/>
-•	Run Query <br/>
-o	Fill in settings <br/>
-<br/>
-<img src="https://i.imgur.com/eZRLSZG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
-<br/>
-<br/>
-<br/> 
-•	Save with title: Failed RDP World Map, US Central for location <br/> 
-o	Click done editing, will now have map (will take some time for hackers to make attempts)! <br/> 
-<br/>
-<img src="https://i.imgur.com/Fkaoq2b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
