@@ -720,27 +720,3 @@ o	Next, and create <br/>
 <img src="https://i.imgur.com/kwrY6Yy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 <br/>
 <br/> 
-•	Go to Logs <br/>
-o	Type->  FAILED_RDP_WITH_GEO_CL <br/>
-o	Run (Will now show all failed logs) <br/>
-<br/>
-<img src="https://i.imgur.com/98OCu6i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<br/> 
-•	Click one of the logs- Extract fields <br/> 
-o	Highlight latitude- Change field title to latitude and Field type as Numeric, Extract <br/> 
-o	(If search results bring up other data than latitude then modify highlight) <br/> 
-o	Repeat with longitude, destination host (text, not numeric), username, sourcehost, state, country, label, and timestamp <br/>  
-<br/>
-<img src="https://i.imgur.com/9d7DHzL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
-•	Re-run script, Wait to repopulate with new fields
-<br/> 
-<br/>
-<br/>
-<br/> 
-•	Open new tab, go to azure portal <br/> 
-o	Type Sentinel- click on log_analytics_workspace_honeypot <br/> 
-o	Click on “Workbooks”- Add new <br/> 
-<br/>
-<br/> 
