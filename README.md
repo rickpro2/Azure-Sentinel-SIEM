@@ -9,7 +9,7 @@ To analyze attack data, I created a Log Analytics workspace to ingest logs from 
 
 With these logs in Sentinel, I crafted a custom Kusto Query Language (KQL) query to visualize the geographic locations of attackers on the Azure Sentinel Map.
 
-This project was inspired by the YouTube video <a href="https://youtu.be/RoZeVbbZ0o0?list=PL85GlCRx5t-Lo3Z5aoSFwozqEkuQtuRmk" target="_new">"SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!"</a> by Josh Madakor. The step-by-step instructions, practical demonstrations, and clear explanations in the video were instrumental in setting up Azure Sentinel and deploying the Virtual Machine Honeypot.
+This project was inspired by the YouTube video <a href="https://youtu.be/g5JL2RIbThM?si=GUjx0TV-xzc0zU9Q" target="_new">"Cyber Home Lab from ZERO and Catch Attackers! Free, Easy, and REAL (Microsoft Sentinel 2025)"</a> by Josh Madakor. The step-by-step instructions, practical demonstrations, and clear explanations in the video were instrumental in setting up Azure Sentinel and deploying the Virtual Machine Honeypot.
 
 ### Languages and Utilities Used
 
