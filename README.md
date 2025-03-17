@@ -13,15 +13,6 @@ This project was inspired by the invaluable guidance provided in the YouTube vid
 <img src="images/Map.png"/>
 
 
-
-
-
-
-# Delete Stuff Below This Line
-
-
-
-
 ## Initial Setup and Configuration
 
 1. **Azure Subscription Setup:**
@@ -55,11 +46,10 @@ This project was inspired by the invaluable guidance provided in the YouTube vid
 
 The cybersecurity lab successfully demonstrated the practical application of tools such as Azure Sentinel and honeypots. The experience deepened my understanding of cybersecurity and emphasized the importance of proactive defense measures.
 
-## Future Updates
 
-Stay tuned for more cybersecurity content and practical demonstrations. Future updates will include additional experiments and labs, providing valuable insights into the evolving field of cybersecurity.
 
-Feel free to explore the repository and use the provided resources for your own learning and experimentation. Contributions and feedback are welcome!
+# Delete Stuff Below This Line
+
 
 
 
