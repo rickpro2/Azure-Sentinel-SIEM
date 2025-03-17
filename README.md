@@ -10,6 +10,9 @@ To enhance the analysis, I utilized a custom PowerShell script to retrieve the g
 
 This project was inspired by the invaluable guidance provided in the YouTube video <a href="https://youtu.be/RoZeVbbZ0o0?list=PL85GlCRx5t-Lo3Z5aoSFwozqEkuQtuRmk" target="_new">"SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!</a>" by Josh Madakor. The video's step-by-step instructions, practical demonstrations, and clear explanations played a crucial role in setting up Azure Sentinel and deploying the Virtual Machine Honeypot.
 
+<br />
+<br />
+
 <img src="images/Map.png"/>
 
 
